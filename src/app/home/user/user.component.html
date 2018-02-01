@@ -1,0 +1,92 @@
+<h2 align="center">
+  <strong>Random Users</strong></h2>
+ <div class="row">
+   <div class="col-xs-12">
+      <form #f="ngForm">
+        <h3>Search:</h3>
+        <div class="col-xs-2">
+            <div class="radio" *ngFor="let gender of genders">
+                <label  >
+                  <input type="radio"  name="gender" [value]="gender" ngModel>
+                  {{gender}}
+                </label>
+              </div>
+              </div>
+              <div class="col-xs-8">
+               Enter Country   <input type="text" class="form-control" name="nal" ngModel>
+
+              </div>
+              <div class="row">
+                <div class="col-xs-4">
+                    <button class="btn btn-success" type="button" (click)="getGender(f)">Apply</button>
+                </div>
+                <div class="col-xs-4">
+
+                </div>
+
+              </div>
+
+
+          </form>
+
+   </div>
+
+  </div>
+
+<div class="row">
+  <div class="col-xs-4">
+
+  </div>
+  <div class="col-xs-8">
+      <pagination-controls (pageChange)="p =$event"></pagination-controls>
+
+  </div>
+</div>
+
+    <div class="box card list-group-item col-md-3 col-lg-3 "
+     style="cursor: pointer; width: 50rem;height: 28rem;;margin: 4px;"
+    *ngFor="let i=index let user of users1 | paginate:{itemsPerPage:6,currentPage:p}; ">
+    <div class="col-xs-4">
+      <img class="card-img-top" style="margin: 10px;" [src]="user.picture.large" alt="">
+      <div class="row" style="margin-top:30px;margin-left: 15px;">
+        <button class="btn btn-primary" type="button" (click)="onSelectUser(user)" >Add User</button>
+      </div>
+    </div>
+    <div class="col-xs-8" style="margin: 0px;">
+      <div class="card-body">
+        <h3>
+          <strong>Full Name:</strong>{{user.name.first}} {{user.name.last}}</h3>
+        <h5 class="card-title">
+          <strong>Emial ID: </strong> {{user.email}} </h5>
+        <h5 class="card-title">
+          <strong> Gender: </strong> {{user.gender}} </h5>
+        <h5 class="card-title">
+          <strong> DOB: </strong> {{user.dob | date:"yyyy-MM-dd"}} </h5>
+        <h5 class="card-title">
+          <strong>Phone: </strong> {{user.phone}} </h5>
+        <h5 class="card-title">
+          <strong> City: </strong> {{user.location.city}}</h5>
+          <h5 class="card-title">
+              <strong> National: </strong> {{user.nat}}</h5>
+        <h5 class="card-title">
+          <strong> Username: </strong> {{user.login.username}} </h5>
+
+      </div>
+
+    </div>
+  </div>
+
+
+
+
+<div class="row">
+  <div class="col-xs-4">
+
+  </div>
+  <div class="col-xs-8">
+      <pagination-controls (pageChange)="p =$event"></pagination-controls>
+
+  </div>
+</div>
+
+

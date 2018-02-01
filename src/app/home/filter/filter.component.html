@@ -1,0 +1,40 @@
+<div class="row">
+  <div class="col-xs-6">
+    <div class="box card list-group-item col-md-3 col-lg-3 " style="cursor: pointer; width: 50rem;height: 25rem;;margin: 4px;">
+      <div class="col-xs-4">
+        <img class="card-img-top" style="margin: 10px;" [src]="userData.picture.large" alt="">
+
+      </div>
+      <div class="col-xs-8" style="margin: 0px;">
+        <div class="card-body">
+          <h3>
+            <strong>Full Name:</strong>{{userData.name.first}} {{userData.name.last}}</h3>
+          <h5 class="card-title">
+            <strong>Emial ID: </strong> {{userData.email}} </h5>
+          <h5 class="card-title">
+            <strong> Gender: </strong> {{userData.gender}} </h5>
+          <h5 class="card-title">
+            <strong> DOB: </strong> {{userData.dob | date:"MM/dd/yy"}} </h5>
+          <h5 class="card-title">
+            <strong>Phone: </strong> {{userData.phone}} </h5>
+          <h5 class="card-title">
+            <strong> City: </strong> {{userData.location.city}}</h5>
+          <h5 class="card-title">
+            <strong> Username: </strong> {{userData.login.username}} </h5>
+
+        </div>
+
+      </div>
+
+    </div>
+    <div class="float-left">
+      <button class="btn btn-primary" type="button" (click)="onAddHistory()">Select User</button>
+      <button class="btn btn-danger">Cancle</button>
+    </div>
+
+  </div>
+  <!-- <div class="col-xs-6">
+    <app-search></app-search>
+</div> -->
+</div>
+{{fname}}

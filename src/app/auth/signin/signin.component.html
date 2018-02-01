@@ -1,0 +1,22 @@
+
+
+
+
+      <form (ngSubmit)="onSignIn(f)" #f="ngForm" class="col-md-6 col-sm-12" style="margin:0 auto;float:none;display:block;">
+          <h2 align="center"><strong><marquee>Login Form </marquee>  </strong></h2>
+          <hr>
+          <div class="form-group ">
+          <label for="email">Email</label>
+              <input type="email" id="email" name="email" ngModel class="form-control input-normal" >
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+                <input type="password" id="password" name="password" ngModel class="form-control">
+          </div>
+
+            <br>
+            <button class="btn btn-primary" type="submit" [disabled]="!f.valid" > Sign In</button>
+        </form>
+
+
+
