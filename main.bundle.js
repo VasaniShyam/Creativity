@@ -20,7 +20,7 @@ webpackEmptyAsyncContext.id = "../../../../../src/$$_lazy_route_resource lazy re
 /***/ "../../../../../src/app/about/about.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!DOCTYPE html>\n<html lang=\"en\">\n\n  <head>\n\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Round About - Start Bootstrap Template</title>\n\n    <!-- Bootstrap core CSS -->\n    <!-- <link href=\"vendor/bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">\n\n    <!-- Custom styles for this template -->\n    <!-- <link href=\"css/round-about.css\" rel=\"stylesheet\"> -->\n\n  </head>\n\n  <body>\n\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n      <!-- Introduction Row -->\n      <h1 class=\"my-4\">About Us\n        <small>It's Nice to Meet You!</small>\n      </h1>\n    <!-- Team Members Row -->\n      <div class=\"row\">\n        <!-- <div class=\"col-lg-12\">\n          <h2 class=\"my-4\">My Team</h2>\n        </div> -->\n\n\n        <div class=\"col-lg-4 col-sm-6 text-center mb-4\">\n\n          <img class=\"img-circle img-fluid d-block mx-auto\" style=\"height:300px;width: 300px\" src=\"assets\\image\\16807792_833207796820204_3144936117578313933_n.jpg\" alt=\"\">\n          <h3>Shyam Patel\n\n          </h3>\n       </div>\n        <div class=\"col-lg-4 col-sm-6 text-center mb-4\">\n          <h2>Go here for Find me..</h2>\n            <h3 class=\"glyphicon glyphicon-arrow-down\"></h3>\n            <iframe\n            src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7360.74104381851!2d72.85079193170527!3d22.714465633474404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e5b79e87c33db%3A0x6d0b3b675491acba!2sManjipura+Rd%2C+Nadiad%2C+Gujarat+387002!5e0!3m2!1sen!2sin!4v1517394220205\"\n            width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>\n\n    </div>\n      </div>\n\n    </div>\n    <!-- /.container -->\n\n    <!-- Footer -->\n    <footer class=\"py-5 bg-dark\">\n\n        <p class=\"m-0 text-center text-white\">Copyright &copy; Red Rose 2018</p>\n\n      <!-- /.container -->\n    </footer>\n\n    <!-- Bootstrap core JavaScript -->\n    <!-- <script src=\"vendor/jquery/jquery.min.js\"></script>\n    <script src=\"vendor/bootstrap/js/bootstrap.bundle.min.js\"></script> -->\n\n  </body>\n\n</html>\n"
+module.exports = "<link href=\"//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css\" rel=\"stylesheet\">\n<div class=\"container\">\n\t<div class=\"row\">\n\n\n\n\n    <div class=\"col-xs-12\">\n    <div class=\"   col-md-10   col-sm-8 col-lg-6\">\n        <div class=\"well profile\">\n             <div class=\"col-sm-12\">\n                 <div class=\"col-xs-12 col-sm-8\">\n                     <h2>Shyam Patel</h2>\n                     <p><strong>About: </strong> Web Devoloper / Angular. </p>\n                     <p><strong>Hobbies: </strong> Read, out with friends, listen to music, play cricketand learn new things. </p>\n                     <p><strong>Skills: </strong>\n                       <span class=\"tags\">Angular</span>\n\n                         <span class=\"tags\">Java</span>\n                         <span class=\"tags\">Android</span>\n                         <span class=\"tags\">bootstrap3</span>\n                     </p>\n                 </div>\n                 <div class=\"col-xs-12 col-sm-4 text-center\">\n                     <figure>\n                         <img src=\"assets\\image\\16807792_833207796820204_3144936117578313933_n.jpg\" alt=\"\" class=\"img-circle img-responsive\">\n                         <br>\n                         <div class=\"bottom\">\n                             <a class=\"btn btn-primary btn-twitter btn-sm\" href=\"https://twitter.com/webmaniac\">\n                                 <i class=\"fa fa-twitter\"></i>\n                             </a>\n                             <a class=\"btn btn-danger btn-sm\" rel=\"publisher\"\n                                href=\"https://plus.google.com/u/1/+ShyamPatelredrose\">\n                                 <i class=\"fa fa-google-plus\"></i>\n                             </a>\n                             <a class=\"btn btn-primary btn-sm\" rel=\"publisher\"\n                                href=\"https://www.facebook.com/shyam.patel.92351995\">\n                                 <i class=\"fa fa-facebook\"></i>\n                             </a>\n\n                         </div>\n                         <figcaption class=\"ratings\">\n                             <p>Ratings\n                             <a href=\"#\">\n                                 <span class=\"fa fa-star\"></span>\n                             </a>\n                             <a href=\"#\">\n                                 <span class=\"fa fa-star\"></span>\n                             </a>\n                             <a href=\"#\">\n                                 <span class=\"fa fa-star\"></span>\n                             </a>\n                             <a href=\"#\">\n                                 <span class=\"fa fa-star\"></span>\n                             </a>\n                             <a href=\"#\">\n                                  <span class=\"fa fa-star-o\"></span>\n                             </a>\n                             </p>\n                         </figcaption>\n                     </figure>\n                 </div>\n             </div>\n             <div class=\"profile-userbuttons\">\n\n                 <button type=\"button\" class=\"btn btn-danger btn-sm\">Message</button>\n               </div>\n             <div class=\"col-xs-12 divider text-center\">\n                 <div class=\"col-xs-12 col-sm-4 emphasis\">\n                     <h2><strong> 20,7K </strong></h2>\n                     <p><small>Followers</small></p>\n                     <button class=\"btn btn-success btn-block\"><span class=\"fa fa-plus-circle\"></span> Follow </button>\n                 </div>\n                 <div class=\"col-xs-12 col-sm-4 emphasis\">\n                     <h2><strong>245</strong></h2>\n                     <p><small>Following</small></p>\n                     <button class=\"btn btn-info btn-block\"><span class=\"fa fa-user\"></span> View Profile </button>\n                 </div>\n                 <div class=\"col-xs-12 col-sm-4 emphasis\">\n                     <h2><strong>43</strong></h2>\n                     <p><small>Snippets</small></p>\n                     <div class=\"btn-group dropup btn-block\">\n                       <button type=\"button\" class=\"btn btn-primary\"><span class=\"fa fa-gear\"></span> Options </button>\n                       <button type=\"button\" class=\"btn btn-primary dropdown-toggle\" data-toggle=\"dropdown\">\n                         <span class=\"caret\"></span>\n                         <span class=\"sr-only\">Toggle Dropdown</span>\n                       </button>\n                       <ul class=\"dropdown-menu text-left\" role=\"menu\">\n                         <li><a href=\"#\"><span class=\"fa fa-envelope pull-right\"></span> Send an email </a></li>\n                         <li><a href=\"#\"><span class=\"fa fa-list pull-right\"></span> Add or remove from a list  </a></li>\n                         <li class=\"divider\"></li>\n                         <li><a href=\"#\"><span class=\"fa fa-warning pull-right\"></span>Report this user for spam</a></li>\n                         <li class=\"divider\"></li>\n                         <li><a href=\"#\" class=\"btn disabled\" role=\"button\"> Unfollow </a></li>\n                       </ul>\n                     </div>\n                 </div>\n             </div>\n        </div>\n     </div>\n</div>\n\n\t</div>\n</div>\n"
 
 /***/ }),
 
@@ -29,10 +29,10 @@ module.exports = "<!DOCTYPE html>\n<html lang=\"en\">\n\n  <head>\n\n    <meta c
 
 exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-base.js")(false);
 // imports
-
+exports.push([module.i, "@import url(http://fonts.googleapis.com/css?family=Lato:400,700);", ""]);
 
 // module
-exports.push([module.i, "", ""]);
+exports.push([module.i, "body {\n  font-family: 'Lato', 'sans-serif'; }\n\n.profile {\n  min-height: 355px;\n  display: inline-block; }\n\nfigcaption.ratings {\n  margin-top: 20px; }\n\nfigcaption.ratings a {\n  color: #f1c40f;\n  font-size: 11px; }\n\nfigcaption.ratings a:hover {\n  color: #f39c12;\n  text-decoration: none; }\n\n.divider {\n  border-top: 1px solid rgba(0, 0, 0, 0.1); }\n\n.emphasis {\n  border-top: 4px solid transparent; }\n\n.emphasis:hover {\n  border-top: 4px solid #1abc9c; }\n\n.emphasis h2 {\n  margin-bottom: 0; }\n\nspan.tags {\n  background: #1abc9c;\n  border-radius: 2px;\n  color: #f5f5f5;\n  font-weight: bold;\n  padding: 2px 4px; }\n\n.dropdown-menu {\n  background-color: #34495e;\n  box-shadow: none;\n  -webkit-box-shadow: none;\n  width: 250px;\n  margin-left: -125px;\n  left: 50%; }\n\n.dropdown-menu .divider {\n  background: none; }\n\n.dropdown-menu > li > a {\n  color: #f5f5f5; }\n\n.dropup .dropdown-menu {\n  margin-bottom: 10px; }\n\n.dropup .dropdown-menu:before {\n  content: \"\";\n  border-top: 10px solid #34495e;\n  border-right: 10px solid transparent;\n  border-left: 10px solid transparent;\n  position: absolute;\n  bottom: -10px;\n  left: 50%;\n  margin-left: -10px;\n  z-index: 10; }\n\n.card.people .card-bottom {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  display: inline-block;\n  width: 100%;\n  padding: 10px 20px;\n  line-height: 29px;\n  text-align: center;\n  box-sizing: border-box; }\n\n.card.hovercard .bottom {\n  padding: 0 20px;\n  margin-bottom: 17px; }\n\n/* Profile container */\n.profile-userbuttons {\n  text-align: center;\n  margin-top: 10px; }\n\n.profile-userbuttons .btn {\n  text-transform: uppercase;\n  font-size: 11px;\n  font-weight: 600;\n  padding: 6px 15px;\n  margin-right: 5px; }\n\n.profile-userbuttons .btn:last-child {\n  margin-right: 0px; }\n", ""]);
 
 // exports
 
@@ -113,7 +113,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 var routes = [
     { path: '', component: __WEBPACK_IMPORTED_MODULE_2__home_home_component__["a" /* HomeComponent */] },
-    { path: 'history', component: __WEBPACK_IMPORTED_MODULE_3__histroy_histroy_component__["a" /* HistroyComponent */], canActivate: [__WEBPACK_IMPORTED_MODULE_7__auth_auth_guard_service__["a" /* AuthGuard */]] },
+    { path: 'history', component: __WEBPACK_IMPORTED_MODULE_3__histroy_histroy_component__["a" /* HistroyComponent */], },
     { path: 'signin', component: __WEBPACK_IMPORTED_MODULE_5__auth_signin_signin_component__["a" /* SigninComponent */] },
     { path: 'signup', component: __WEBPACK_IMPORTED_MODULE_6__auth_signup_signup_component__["a" /* SignupComponent */] },
     { path: 'about', component: __WEBPACK_IMPORTED_MODULE_9__about_about_component__["a" /* AboutComponent */] },
@@ -320,6 +320,10 @@ var AuthGuard = (function () {
         this.router = router;
     }
     AuthGuard.prototype.canActivate = function (route, state) {
+        if (!this.authService.login) {
+            this.router.navigate(['/signin']);
+            alert('To visit to Random Users then first Please Login or Register');
+        }
         return this.authService.login;
     };
     AuthGuard = __decorate([
@@ -370,15 +374,18 @@ var AuthService = (function () {
             .then(function (res) {
             _this.router.navigate(['/signin']);
         })
-            .catch(function (error) { return console.log(error); });
+            .catch(function (error) { return alert("Password must be greater than 6"); });
     };
     AuthService.prototype.signin = function (email, passsword) {
         var _this = this;
-        this.login = true;
+        //  this.login = true;
         __WEBPACK_IMPORTED_MODULE_2_firebase__["auth"]().signInWithEmailAndPassword(email, passsword)
             .then(function (res) {
             _this.router.navigate(['/']);
-        }).catch(function (error) { return console.log(error); });
+            _this.login = true;
+            _this.getUserName(email);
+            //  console.log(this.login);
+        }).catch(function (error) { return alert("Please Enter valid username and password"); });
     };
     AuthService.prototype.getToken = function () {
         var _this = this;
@@ -396,6 +403,7 @@ var AuthService = (function () {
         return this.email;
     };
     AuthService.prototype.logout = function () {
+        this.login = false;
         __WEBPACK_IMPORTED_MODULE_2_firebase__["auth"]().signOut();
         this.token = null;
     };
@@ -413,7 +421,7 @@ var AuthService = (function () {
 /***/ "../../../../../src/app/auth/signin/signin.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "\n\n\n\n      <form (ngSubmit)=\"onSignIn(f)\" #f=\"ngForm\" class=\"col-md-6 col-sm-12\" style=\"margin:0 auto;float:none;display:block;\">\n          <h2 align=\"center\"><strong><marquee>Login Form </marquee>  </strong></h2>\n          <hr>\n          <div class=\"form-group \">\n          <label for=\"email\">Email</label>\n              <input type=\"email\" id=\"email\" name=\"email\" ngModel class=\"form-control input-normal\" >\n        </div>\n        <div class=\"form-group\">\n            <label for=\"password\">Password</label>\n                <input type=\"password\" id=\"password\" name=\"password\" ngModel class=\"form-control\">\n          </div>\n\n            <br>\n            <button class=\"btn btn-primary\" type=\"submit\" [disabled]=\"!f.valid\" > Sign In</button>\n        </form>\n\n\n\n"
+module.exports = "\n\n\n\n      <form (ngSubmit)=\"onSignIn(f)\" #f=\"ngForm\" class=\"col-md-6 col-sm-12\" style=\"margin:0 auto;float:none;display:block;\">\n          <h2 align=\"center\"><strong><marquee>Login Form </marquee>  </strong></h2>\n          <hr>\n          <div class=\"form-group \">\n          <label for=\"email\">Email</label>\n              <input type=\"email\" id=\"email\" name=\"email\" ngModel required class=\"form-control input-normal\" >\n        </div>\n        <div class=\"form-group\">\n            <label for=\"password\">Password</label>\n                <input type=\"password\" id=\"password\" name=\"password\" required ngModel class=\"form-control\">\n          </div>\n\n            <br>\n            <button class=\"btn btn-primary\" type=\"submit\" [disabled]=\"!f.valid\" > Sign In</button>\n            <a routerLink=\"/signup\" style=\"cursor: pointer;margin-left:300px \">Do Register</a>\n        </form>\n\n\n\n"
 
 /***/ }),
 
@@ -425,7 +433,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".input-mysize {\n  width: 150px; }\n", ""]);
+exports.push([module.i, "", ""]);
 
 // exports
 
@@ -464,7 +472,10 @@ var SigninComponent = (function () {
         this.email = email;
         var pass = form.value.password;
         this.authService.signin(email, pass);
-        this.authService.getUserName(email);
+        // if (this.authService.login) {
+        //   this.authService.getUserName(email);
+        //   console.log("Shyam");
+        // }
         form.reset();
     };
     SigninComponent = __decorate([
@@ -485,7 +496,7 @@ var SigninComponent = (function () {
 /***/ "../../../../../src/app/auth/signup/signup.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "\n  <div class=\"page-wrapper\">\n\n\n    <form (ngSubmit)=\"onSignUp(f)\" #f=\"ngForm\" class=\"col-md-6 col-sm-12\" style=\"margin:0 auto;float:none;display:block;\">\n        <h2 align=\"center\"><strong>  Register Form </strong></h2>\n        <hr>\n        <div class=\"form-group \">\n        <label for=\"email\">Email</label>\n            <input type=\"email\" id=\"email\" name=\"email\" ngModel class=\"form-control\" >\n      </div>\n      <div class=\"form-group\">\n          <label for=\"password\">Password</label>\n              <input type=\"password\" id=\"password\" name=\"password\" ngModel class=\"form-control\">\n        </div>\n\n          <br>\n          <button class=\"btn btn-primary\" type=\"submit\" [disabled]=\"!f.valid\" > Sign Up</button>\n      </form>\n\n\n</div>\n\n"
+module.exports = "\n\n <div class=\"page-wrapper\">\n\n  <div class=\"row\">\n    <div class=\"col-xs-4\" style=\"margin-top:50px\">\n        <video idth=\"320\"  height=\"240\" controls=\"controls\">\n            <source src=\"assets\\videos\\Horses in 4K (96fps) ULTRA HD.mp4\" type=\"video/mp4\">\n            <source src=\"assets\\videos\\Horses in 4K (96fps) ULTRA HD.ogv\" type=\"video/ogg\">\n            Your browser does not support the Video .\n        </video>\n    </div>\n    <div class=\"col-xs-8\">\n        <form (ngSubmit)=\"onSignUp(f)\" #f=\"ngForm\" class=\"col-md-6 col-sm-12\" style=\"margin:0 auto;float:none;display:block;\">\n            <h2 align=\"center\"><strong>  Register Form </strong></h2>\n            <hr>\n            <div class=\"form-group \">\n            <label for=\"email\">Email</label>\n                <input type=\"email\" id=\"email\" name=\"email\"  required ngModel class=\"form-control\" >\n                <span *ngIf=\"!f.get('email.').valid\">Please enter valid Email Id</span>\n          </div>\n          <div class=\"form-group\">\n              <label for=\"password\">Password</label>\n                  <input type=\"password\" id=\"password\" name=\"password\" required ngModel class=\"form-control\">\n            </div>\n\n              <br>\n              <button class=\"btn btn-primary\" type=\"submit\" [disabled]=\"!f.valid\" > Sign Up</button>\n          </form>\n\n    </div>\n  </div>\n\n\n</div>\n\n"
 
 /***/ }),
 
@@ -555,7 +566,7 @@ var SignupComponent = (function () {
 /***/ "../../../../../src/app/header/header.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<html lang=\"en\">\n\n<head>\n  <title>Bootstrap Example</title>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\n  <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>\n</head>\n\n<body>\n\n  <nav class=\"navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#myNavbar\">\n          <span class=\"icon-bar\"></span>\n          <span class=\"icon-bar\"></span>\n          <span class=\"icon-bar\"></span>\n        </button>\n   <a class=\"navbar-brand\" href=\"#\" style=\"color:red\" *ngIf=\"flag\">Active User: {{email}}</a>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"myNavbar\">\n        <ul class=\"nav navbar-nav\">\n          <li class=\"active\">\n            <a href=\"#\">Home</a>\n          </li>\n          <li class=\"dropdown\">\n            <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Page 1\n              <span class=\"caret\"></span>\n            </a>\n            <ul class=\"dropdown-menu\">\n              <li>\n                <a href=\"#\">Page 1-1</a>\n              </li>\n              <li>\n                <a href=\"#\">Page 1-2</a>\n              </li>\n              <li>\n                <a href=\"#\">Page 1-3</a>\n              </li>\n            </ul>\n          </li>\n          <li>\n            <a href=\"#\">Page 2</a>\n          </li>\n          <li>\n            <a href=\"#\">Page 3</a>\n          </li>\n\n        </ul>\n\n        <ul class=\"nav navbar-nav navbar-right\">\n           <form class=\"navbar-form navbar-left\" action=\"/action_page.php\">\n            <div class=\"input-group\">\n              <input type=\"text\" class=\"form-control\" placeholder=\"Search\" *ngIf=\"flag\">\n              <div class=\"input-group-btn\">\n                <button class=\"btn btn-default\" type=\"submit\" *ngIf=\"flag\">\n                  <i class=\"glyphicon glyphicon-search\"></i>\n                </button>\n              </div>\n            </div>\n          </form>\n          <li>\n            <a routerLink=\"/signup\">\n              <span class=\"glyphicon glyphicon-user\"></span> Sign Up</a>\n          </li>\n          <li *ngIf=\"!flag\" style=\"cursor: pointer\">\n            <a routerLink=\"/signin\">\n\n              <span class=\"glyphicon glyphicon-log-in\" *ngIf=\"!flag\"></span> {{ flag ? 'Logout' : 'Login'}}</a>\n          </li>\n          <li style=\"cursor: pointer\" *ngIf=\"flag\" (click)=\"onLogout()\">\n              <a routerLink=\"/signin\">\n                <span class=\"glyphicon glyphicon-log-out\" *ngIf=\"flag\"></span>\n               {{ flag ? 'Logout' : 'Login'}}</a>\n            </li>\n        </ul>\n      </div>\n    </div>\n    <app-sidebar></app-sidebar>\n\n  </nav>\n\n  <div class=\"container\">\n    <router-outlet></router-outlet>\n      <!-- <app-user *ngIf=\"flag\"></app-user> -->\n  </div>\n\n</body>\n\n</html>\n"
+module.exports = "<html lang=\"en\">\n\n<head>\n  <title>Bootstrap Example</title>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\n  <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>\n</head>\n\n<body>\n\n  <nav class=\"navbar\">\n    <div class=\"container-fluid\">\n      <div class=\"navbar-header\">\n        <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#myNavbar\">\n          <span class=\"icon-bar\"></span>\n          <span class=\"icon-bar\"></span>\n          <span class=\"icon-bar\"></span>\n        </button>\n   <a class=\"navbar-brand\" href=\"#\" style=\"color:green\" *ngIf=\"flag\">Active User: {{email}}</a>\n      </div>\n      <div class=\"collapse navbar-collapse\" id=\"myNavbar\">\n        <ul class=\"nav navbar-nav\">\n          <li class=\"active\">\n            <a href=\"#\">Home</a>\n          </li>\n          <li class=\"dropdown\">\n            <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Page 1\n              <span class=\"caret\"></span>\n            </a>\n\n          </li>\n\n        </ul>\n\n        <ul class=\"nav navbar-nav navbar-right\">\n           <form class=\"navbar-form navbar-left\" action=\"/action_page.php\">\n            <div class=\"input-group\">\n              <input type=\"text\" class=\"form-control\" placeholder=\"Search\" *ngIf=\"flag\">\n              <div class=\"input-group-btn\">\n                <button class=\"btn btn-default\" type=\"submit\" *ngIf=\"flag\">\n                  <i class=\"glyphicon glyphicon-search\"></i>\n                </button>\n              </div>\n            </div>\n          </form>\n          <li>\n            <a routerLink=\"/signup\">\n              <span class=\"glyphicon glyphicon-user\"></span> Sign Up</a>\n          </li>\n          <li *ngIf=\"!flag\" style=\"cursor: pointer\">\n            <a routerLink=\"/signin\">\n\n              <span class=\"glyphicon glyphicon-log-in\" *ngIf=\"!flag\"></span> {{ flag ? 'Logout' : 'Login'}}</a>\n          </li>\n          <li style=\"cursor: pointer\" *ngIf=\"flag\" (click)=\"onLogout()\">\n              <a routerLink=\"/signin\">\n                <span class=\"glyphicon glyphicon-log-out\" *ngIf=\"flag\"></span>\n               {{ flag ? 'Logout' : 'Login'}}</a>\n            </li>\n        </ul>\n      </div>\n    </div>\n    <app-sidebar></app-sidebar>\n\n  </nav>\n\n  <div class=\"container\">\n    <router-outlet></router-outlet>\n      <!-- <app-user *ngIf=\"flag\"></app-user> -->\n  </div>\n\n</body>\n\n</html>\n"
 
 /***/ }),
 
@@ -601,7 +612,6 @@ var HeaderComponent = (function () {
     function HeaderComponent(authService, router) {
         this.authService = authService;
         this.router = router;
-        this.flag = false;
     }
     HeaderComponent.prototype.ngOnInit = function () {
         var _this = this;
@@ -634,7 +644,7 @@ var HeaderComponent = (function () {
 /***/ "../../../../../src/app/histroy/histroy.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<table class=\"table table-hover table-bordered\">\n<tr>\n  <th>Image</th>\n  <th>Name</th>\n  <th>Email</th>\n  <th>UserName</th>\n  <th>Phone</th>\n  <th>Gender</th>\n\n</tr>\n<tr *ngFor=\"let user of usersData;let i=index\"  class=\"danger\">\n  <td> <img class=\"card-img-top\" style=\"margin: 10px;\" [src]=\"user.picture.thumbnail\" alt=\"Not Available\"></td>\n  <td >{{user.name.first}} {{user.name.last}}</td>\n  <td >{{user.email}}</td>\n  <td>{{user.login.username}}</td>\n  <td>{{user.phone}}</td>\n  <td>{{user.gender}}</td>\n</tr>\n</table>\n\n"
+module.exports = "<form #f=\"ngForm\">\n  <div class=\"input-group\">\n    <input type=\"text\" class=\"form-control\" name=\"search\" [(ngModel)]=\"search\" placeholder=\"Search\">\n    <div class=\"input-group-btn\">\n      <button class=\"btn btn-default\" type=\"submit\" >\n        <i class=\"glyphicon glyphicon-search\" (click)=\"onSearch(f)\"></i>\n      </button>\n      <button class=\"btn btn-warning\" type=\"button\" (click)=\"onAll()\">Get All</button>\n    </div>\n  </div>\n</form>\n\n<table class=\"table table-hover table-bordered\">\n<tr>\n  <th>Image</th>\n  <th>Name</th>\n  <th>Email</th>\n  <th>UserName</th>\n  <th>Phone</th>\n  <th>Gender</th>\n\n</tr>\n<tr *ngFor=\"let user of usersData;let i=index\"  class=\"danger\">\n\n  <td> <img class=\"card-img-top\" style=\"margin: 10px;\" [src]=\"user.picture.thumbnail\" alt=\"Not Available\"></td>\n  <td >{{user.name.first  | uppercase}} {{user.name.last  | uppercase}}</td>\n  <td >{{user.email}}</td>\n  <td>{{user.login.username}}</td>\n  <td>{{user.phone}}</td>\n  <td>{{user.gender}}</td>\n\n</tr>\n</table>\n\n"
 
 /***/ }),
 
@@ -684,27 +694,41 @@ var HistroyComponent = (function () {
     }
     HistroyComponent.prototype.ngOnInit = function () {
         var _this = this;
-        //  this.users = this.userService.addHistory;
         this.userService.getData()
             .subscribe(function (data) {
             console.log(data);
             var temp = data.json();
-            // temp.forEach(element => {
-            //   console.log(element,'___');
-            // });
             for (var elm in temp) {
                 if (temp.hasOwnProperty(elm)) {
                     _this.usersData.push(temp[elm]);
-                    //  ;
                 }
             }
-            console.log(_this.usersData);
-            // this.usersData = JSON.parse(JSON.stringify(this.usersData));
-            // console.log(this.usersData);
         });
-        // console.log(this.users);
     };
-    HistroyComponent.prototype.getHistory = function () {
+    HistroyComponent.prototype.onSearch = function (form) {
+        for (var _i = 0, _a = this.usersData; _i < _a.length; _i++) {
+            var data = _a[_i];
+            if (form.value.search === data.login.username || form.value.search === data.name.first ||
+                form.value.search === data.name.last || form.value.search === data.gender || form.value.search === data.email
+                || form.value.search === data.phone) {
+                this.usersData.splice(0);
+                this.usersData.push(data);
+                form.reset();
+            }
+        }
+    };
+    HistroyComponent.prototype.onAll = function () {
+        var _this = this;
+        this.usersData.splice(0);
+        this.userService.getData()
+            .subscribe(function (data) {
+            var temp = data.json();
+            for (var elm in temp) {
+                if (temp.hasOwnProperty(elm)) {
+                    _this.usersData.push(temp[elm]);
+                }
+            }
+        });
     };
     HistroyComponent = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
@@ -724,7 +748,7 @@ var HistroyComponent = (function () {
 /***/ "../../../../../src/app/home/filter/filter.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"row\">\n  <div class=\"col-xs-6\">\n    <div class=\"box card list-group-item col-md-3 col-lg-3 \" style=\"cursor: pointer; width: 50rem;height: 25rem;;margin: 4px;\">\n      <div class=\"col-xs-4\">\n        <img class=\"card-img-top\" style=\"margin: 10px;\" [src]=\"userData.picture.large\" alt=\"\">\n\n      </div>\n      <div class=\"col-xs-8\" style=\"margin: 0px;\">\n        <div class=\"card-body\">\n          <h3>\n            <strong>Full Name:</strong>{{userData.name.first}} {{userData.name.last}}</h3>\n          <h5 class=\"card-title\">\n            <strong>Emial ID: </strong> {{userData.email}} </h5>\n          <h5 class=\"card-title\">\n            <strong> Gender: </strong> {{userData.gender}} </h5>\n          <h5 class=\"card-title\">\n            <strong> DOB: </strong> {{userData.dob | date:\"MM/dd/yy\"}} </h5>\n          <h5 class=\"card-title\">\n            <strong>Phone: </strong> {{userData.phone}} </h5>\n          <h5 class=\"card-title\">\n            <strong> City: </strong> {{userData.location.city}}</h5>\n          <h5 class=\"card-title\">\n            <strong> Username: </strong> {{userData.login.username}} </h5>\n\n        </div>\n\n      </div>\n\n    </div>\n    <div class=\"float-left\">\n      <button class=\"btn btn-primary\" type=\"button\" (click)=\"onAddHistory()\">Select User</button>\n      <button class=\"btn btn-danger\">Cancle</button>\n    </div>\n\n  </div>\n  <!-- <div class=\"col-xs-6\">\n    <app-search></app-search>\n</div> -->\n</div>\n{{fname}}\n"
+module.exports = "<div class=\"row\">\n  <div class=\"col-xs-6\">\n    <div class=\"box card list-group-item col-md-3 col-lg-3 \" style=\"cursor: pointer; width: 50rem;height: 25rem;;margin: 4px;\">\n      <div class=\"col-xs-4\">\n        <img class=\"card-img-top\" style=\"margin: 10px;\" [src]=\"userData.picture.large\" alt=\"\">\n\n      </div>\n      <div class=\"col-xs-8\" style=\"margin: 0px;\">\n        <div class=\"card-body\">\n          <h3>\n            <strong>Full Name:</strong>{{userData.name.first  | uppercase}} {{userData.name.last  | uppercase}}</h3>\n          <h5 class=\"card-title\">\n            <strong>Emial ID: </strong> {{userData.email}} </h5>\n          <h5 class=\"card-title\">\n            <strong> Gender: </strong> {{userData.gender}} </h5>\n          <h5 class=\"card-title\">\n            <strong> DOB: </strong> {{userData.dob | date:\"MM/dd/yy\"}} </h5>\n          <h5 class=\"card-title\">\n            <strong>Phone: </strong> {{userData.phone}} </h5>\n          <h5 class=\"card-title\">\n            <strong> City: </strong> {{userData.location.city}}</h5>\n          <h5 class=\"card-title\">\n            <strong> Username: </strong> {{userData.login.username}} </h5>\n\n        </div>\n\n      </div>\n\n    </div>\n    <div class=\"float-left\">\n      <button class=\"btn btn-primary\" type=\"button\" (click)=\"onAddHistory()\">Select User</button>\n      <button class=\"btn btn-danger\" type=\"button\" (click)=\"onCancle()\">Cancle</button>\n    </div>\n\n  </div>\n  <!-- <div class=\"col-xs-6\">\n    <app-search></app-search>\n</div> -->\n</div>\n"
 
 /***/ }),
 
@@ -786,6 +810,9 @@ var FilterComponent = (function () {
             return console.log(res);
         });
         this.router.navigate(['/user'], { relativeTo: this.route });
+    };
+    FilterComponent.prototype.onCancle = function () {
+        this.router.navigate(['/user']);
     };
     FilterComponent = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
@@ -927,7 +954,7 @@ var SearchComponent = (function () {
 /***/ "../../../../../src/app/home/user/user.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<h2 align=\"center\">\n  <strong>Random Users</strong></h2>\n <div class=\"row\">\n   <div class=\"col-xs-12\">\n      <form #f=\"ngForm\">\n        <h3>Search:</h3>\n        <div class=\"col-xs-2\">\n            <div class=\"radio\" *ngFor=\"let gender of genders\">\n                <label  >\n                  <input type=\"radio\"  name=\"gender\" [value]=\"gender\" ngModel>\n                  {{gender}}\n                </label>\n              </div>\n              </div>\n              <div class=\"col-xs-8\">\n               Enter Country   <input type=\"text\" class=\"form-control\" name=\"nal\" ngModel>\n\n              </div>\n              <div class=\"row\">\n                <div class=\"col-xs-4\">\n                    <button class=\"btn btn-success\" type=\"button\" (click)=\"getGender(f)\">Apply</button>\n                </div>\n                <div class=\"col-xs-4\">\n\n                </div>\n\n              </div>\n\n\n          </form>\n\n   </div>\n\n  </div>\n\n<div class=\"row\">\n  <div class=\"col-xs-4\">\n\n  </div>\n  <div class=\"col-xs-8\">\n      <pagination-controls (pageChange)=\"p =$event\"></pagination-controls>\n\n  </div>\n</div>\n\n    <div class=\"box card list-group-item col-md-3 col-lg-3 \"\n     style=\"cursor: pointer; width: 50rem;height: 28rem;;margin: 4px;\"\n    *ngFor=\"let i=index let user of users1 | paginate:{itemsPerPage:6,currentPage:p}; \">\n    <div class=\"col-xs-4\">\n      <img class=\"card-img-top\" style=\"margin: 10px;\" [src]=\"user.picture.large\" alt=\"\">\n      <div class=\"row\" style=\"margin-top:30px;margin-left: 15px;\">\n        <button class=\"btn btn-primary\" type=\"button\" (click)=\"onSelectUser(user)\" >Add User</button>\n      </div>\n    </div>\n    <div class=\"col-xs-8\" style=\"margin: 0px;\">\n      <div class=\"card-body\">\n        <h3>\n          <strong>Full Name:</strong>{{user.name.first}} {{user.name.last}}</h3>\n        <h5 class=\"card-title\">\n          <strong>Emial ID: </strong> {{user.email}} </h5>\n        <h5 class=\"card-title\">\n          <strong> Gender: </strong> {{user.gender}} </h5>\n        <h5 class=\"card-title\">\n          <strong> DOB: </strong> {{user.dob | date:\"yyyy-MM-dd\"}} </h5>\n        <h5 class=\"card-title\">\n          <strong>Phone: </strong> {{user.phone}} </h5>\n        <h5 class=\"card-title\">\n          <strong> City: </strong> {{user.location.city}}</h5>\n          <h5 class=\"card-title\">\n              <strong> National: </strong> {{user.nat}}</h5>\n        <h5 class=\"card-title\">\n          <strong> Username: </strong> {{user.login.username}} </h5>\n\n      </div>\n\n    </div>\n  </div>\n\n\n\n\n<div class=\"row\">\n  <div class=\"col-xs-4\">\n\n  </div>\n  <div class=\"col-xs-8\">\n      <pagination-controls (pageChange)=\"p =$event\"></pagination-controls>\n\n  </div>\n</div>\n\n\n"
+module.exports = "<h2 align=\"center\">\n  <strong>Random Users</strong></h2>\n <div class=\"row\">\n   <div class=\"col-xs-12\">\n      <form #f=\"ngForm\">\n        <h3>Search:</h3>\n        <div class=\"col-xs-2\">\n            <div class=\"radio\" *ngFor=\"let gender of genders\">\n                <label  >\n                  <input type=\"radio\"  name=\"gender\" [value]=\"gender\" ngModel>\n                  {{gender}}\n                </label>\n              </div>\n              </div>\n              <div class=\"col-xs-8\">\n               Enter Country   <input type=\"text\" class=\"form-control\" name=\"nal\" ngModel>\n\n              </div>\n              <div class=\"row\">\n                <div class=\"col-xs-4\">\n                    <button class=\"btn btn-success\" type=\"button\" (click)=\"getGender(f)\">Apply</button>\n                </div>\n                <div class=\"col-xs-4\">\n\n                </div>\n\n              </div>\n\n\n          </form>\n\n   </div>\n\n  </div>\n\n<div class=\"row\">\n  <div class=\"col-xs-4\">\n\n  </div>\n  <div class=\"col-xs-8\">\n      <pagination-controls (pageChange)=\"p =$event\"></pagination-controls>\n\n  </div>\n</div>\n\n    <div class=\"box card list-group-item col-md-3 col-lg-3 \"\n     style=\"cursor: pointer; width: 50rem;height: 28rem;;margin: 4px;\"\n    *ngFor=\"let user of users1 | paginate:{itemsPerPage:6,currentPage:p}; \">\n    <div class=\"col-xs-4\">\n      <img class=\"card-img-top\" style=\"margin: 10px;\" [src]=\"user.picture.large\" alt=\"\">\n      <div class=\"row\" style=\"margin-top:30px;margin-left: 15px;\">\n        <button class=\"btn btn-primary\" type=\"button\" (click)=\"onSelectUser(user)\" >Add User</button>\n      </div>\n    </div>\n    <div class=\"col-xs-8\" style=\"margin: 0px;\">\n      <div class=\"card-body\">\n        <h4>\n          <strong>Full Name:</strong>{{user.name.first | uppercase}} {{user.name.last | uppercase}}</h4>\n        <h5 class=\"card-title\">\n          <strong>Emial ID: </strong> {{user.email}} </h5>\n        <h5 class=\"card-title\">\n          <strong> Gender: </strong> {{user.gender}} </h5>\n        <h5 class=\"card-title\">\n          <strong> DOB: </strong> {{user.dob | date:\"yyyy-MM-dd\"}} </h5>\n        <h5 class=\"card-title\">\n          <strong>Phone: </strong> {{user.phone}} </h5>\n        <h5 class=\"card-title\">\n          <strong> City: </strong> {{user.location.city}}</h5>\n          <h5 class=\"card-title\">\n              <strong> National: </strong> {{user.nat}}</h5>\n        <h5 class=\"card-title\">\n          <strong> Username: </strong> {{user.login.username}} </h5>\n\n      </div>\n\n    </div>\n  </div>\n\n\n\n\n<div class=\"row\">\n  <div class=\"col-xs-4\">\n\n  </div>\n  <div class=\"col-xs-8\">\n      <pagination-controls (pageChange)=\"p =$event\"></pagination-controls>\n\n  </div>\n</div>\n\n\n"
 
 /***/ }),
 
@@ -998,7 +1025,6 @@ var UserComponent = (function () {
     };
     UserComponent.prototype.getGender = function (form) {
         var _this = this;
-        //console.log(form.value.nal);
         if (this.userService.random = form.value.gender) {
             this.subsciption = this.userService.getRandomGender('nat', form.value.nal)
                 .subscribe(function (res) {
@@ -1098,7 +1124,7 @@ var UserService = (function () {
 /***/ "../../../../../src/app/sidebar/sidebar.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n        <title>Collapsible sidebar using Bootstrap 3</title>\n\n         <!-- Bootstrap CSS CDN -->\n        <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n        <!-- Our Custom CSS -->\n        <!-- <link rel=\"stylesheet\" href=\"style5.css\"> -->\n    </head>\n    <body>\n\n\n\n        <div class=\"wrapper\">\n            <!-- Sidebar Holder -->\n            <nav id=\"sidebar\">\n\n                <div class=\"sidebar-header\">\n                    <h3>Creativity</h3>\n                </div>\n\n                <ul class=\"list-unstyled components\">\n                    <p>Menus</p>\n                    <li [routerLinkActiveOptions]=\"{exact:true}\" routerLinkActive=\"active\">\n                        <!-- <a href=\"#homeSubmenu\" data-toggle=\"collapse\" aria-expanded=\"false\">Home</a> -->\n                        <a routerLink=\"/\">Dashborad</a>\n\n                    </li>\n                    <li routerLinkActive=\"active\">  <a routerLink=\"/user\">Random User</a></li>\n                    <li routerLinkActive=\"active\"> <a routerLink=\"/history\">Histroy</a></li>\n                    <li>\n                        <a routerLink=\"/about\" routerLinkActive=\"active\">About</a>\n                        <a href=\"#pageSubmenu\" data-toggle=\"collapse\" aria-expanded=\"false\">Pages</a>\n                        <ul class=\"collapse list-unstyled\" id=\"pageSubmenu\">\n                            <li><a href=\"#\">Page 1</a></li>\n                            <li><a href=\"#\">Page 2</a></li>\n                            <li><a href=\"#\">Page 3</a></li>\n                        </ul>\n                </ul>\n            </nav>\n            <button type=\"button\" id=\"sidebarCollapse\" class=\"navbar-btn\">\n                <span></span>\n                <span></span>\n                <span></span>\n            </button>\n\n            <!-- <nav class=\"navbar navbar-default\">\n                <div class=\"container-fluid\">\n\n                    <div class=\"navbar-header\">\n\n                    </div>\n<!\n                    <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                        <ul class=\"nav navbar-nav navbar-right\">\n                            <li><a href=\"#\">Page</a></li>\n                            <li><a href=\"#\">Page</a></li>\n                            <li><a href=\"#\">Page</a></li>\n                            <li><a href=\"#\">Page</a></li>\n                        </ul>\n                    </div> -->\n                <!-- </div>\n            </nav> -->\n            <!-- Page Content Holder -->\n            <div id=\"content\" class=\"container\">\n                  <router-outlet></router-outlet>\n\n              </div>\n            </div>\n    </body>\n</html>\n"
+module.exports = "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\n        <title>Collapsible sidebar using Bootstrap 3</title>\n\n         <!-- Bootstrap CSS CDN -->\n        <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n        <!-- Our Custom CSS -->\n        <!-- <link rel=\"stylesheet\" href=\"style5.css\"> -->\n    </head>\n    <body>\n\n\n\n        <div class=\"wrapper\">\n            <!-- Sidebar Holder -->\n            <nav id=\"sidebar\">\n\n                <div class=\"sidebar-header\">\n                    <h3>Creativity</h3>\n                </div>\n\n                <ul class=\"list-unstyled components\">\n                    <p>Menus</p>\n                    <li [routerLinkActiveOptions]=\"{exact:true}\" routerLinkActive=\"active\">\n                        <!-- <a href=\"#homeSubmenu\" data-toggle=\"collapse\" aria-expanded=\"false\">Home</a> -->\n                        <a routerLink=\"/\">Dashborad</a>\n\n                    </li>\n                    <li routerLinkActive=\"active\">  <a routerLink=\"/user\">Random User</a></li>\n                    <li routerLinkActive=\"active\"> <a routerLink=\"/history\">Histroy</a></li>\n                    <li>\n                        <a routerLink=\"/about\" routerLinkActive=\"active\">About</a>\n\n                </ul>\n            </nav>\n            <button type=\"button\" id=\"sidebarCollapse\" class=\"navbar-btn\">\n                <span></span>\n                <span></span>\n                <span></span>\n            </button>\n\n            <!-- <nav class=\"navbar navbar-default\">\n                <div class=\"container-fluid\">\n\n                    <div class=\"navbar-header\">\n\n                    </div>\n<!\n                    <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                        <ul class=\"nav navbar-nav navbar-right\">\n                            <li><a href=\"#\">Page</a></li>\n                            <li><a href=\"#\">Page</a></li>\n                            <li><a href=\"#\">Page</a></li>\n                            <li><a href=\"#\">Page</a></li>\n                        </ul>\n                    </div> -->\n                <!-- </div>\n            </nav> -->\n            <!-- Page Content Holder -->\n            <div id=\"content\" class=\"container\">\n                  <router-outlet></router-outlet>\n\n              </div>\n            </div>\n    </body>\n</html>\n"
 
 /***/ }),
 
